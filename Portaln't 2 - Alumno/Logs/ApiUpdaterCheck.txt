@@ -1,0 +1,10 @@
+[api-updater (non-obsolete-error-filter)] 26/10/2021 3:22:24 p. m. : Starting C:/COSAS 720/UNITY FACULTAD/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 911,502ms
+moved types parse time: 67ms
+candidates parse time : 1ms
+C# parse time         : 354ms
+candidates check time : 38ms
+console write time    : 0ms
+
